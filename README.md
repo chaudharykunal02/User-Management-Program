@@ -39,3 +39,9 @@ For updating user info
 public String updateUser(User updatedUser, int id)  
 For deleting an user  
 public List deleteUser(int id)  
+
+Database  
+I haven't used any Database in this project yet. But for data storing I have used an Collections.
+  
+Datastructures  
+ArrayList
